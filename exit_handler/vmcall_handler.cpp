@@ -18,6 +18,7 @@
 
 #include <bfvmm/vcpu/vcpu_factory.h>
 #include <eapis/vcpu/arch/intel_x64/vcpu.h>
+#include <bfdebug.h>
 
 using namespace eapis::intel_x64;
 
